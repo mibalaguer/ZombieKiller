@@ -1,2 +1,2 @@
-# ZombieKiller
-Virtual Reality Project in Unity
+# TMD-Vr
+Project of VR
